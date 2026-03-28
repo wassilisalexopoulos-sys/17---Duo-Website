@@ -1,0 +1,4 @@
+{
+  "storageAccountName": "your-storage-account-name",
+  "resourceGroup": "your-resource-group-name"
+}
