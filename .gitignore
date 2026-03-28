@@ -1,0 +1,3 @@
+# Local deploy settings (copy from *.example.json)
+azure-site.config.json
+azure-webapp.config.json
